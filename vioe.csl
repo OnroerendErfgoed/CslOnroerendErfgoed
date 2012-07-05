@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="sort-only">
   <info>
-    <title>Vlaams Instituut voor het Onroerend Erfgoed</title>
-    <id>http://www.vioe.be/vioe</id>
+    <title>Onroerend Erfgoed</title>
+    <id>http://csl.onroerenderfgoed.be/OnroerendErfgoed</id>
     <author>
       <name>Maarten Vermeyen</name>
       <email>Maarten.vermeyen@rwo.vlaanderen.be</email>
     </author>
     <category citation-format="note"/>
-    <updated>2010-04-07T16:02:25+00:00</updated>
-    <summary>Vlaams Instituut voor het Onroerend Erfgoed</summary>
+    <updated>2012-06-05T12:37:25+01:00</updated>
+    <summary>Citation style of Flanders Heritage (agentschap Onroerend Erfgoed)</summary>
   </info>
   
   
